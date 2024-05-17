@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function MemeForm({ setMemes }) {
+function MemeForm() {
 
     const URL = 'http://localhost:3000/memes'
 

@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Cat Memes OMG</h1>
+      <h1>Memes OMG</h1>
 
       <MemesContainer />
     </>

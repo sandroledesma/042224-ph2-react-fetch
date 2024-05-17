@@ -12,7 +12,7 @@ function MemesContainer() {
     return (
         <div>
 
-            <MemeForm setMemes={setMemes} />
+            <MemeForm />
 
             { mappedCards }
 
